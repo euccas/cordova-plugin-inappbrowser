@@ -34,3 +34,6 @@ This is an updated version of the original cordova-plutin-inappbrowser used for 
 
 - iOS
 
+### Manual of the original plugin
+
+https://github.com/apache/cordova-plugin-inappbrowser/blob/master/README.md
